@@ -24,6 +24,7 @@ a:hover {
 }
 
 body {
+  font-size: 30px;
   margin: 0;
   padding: 50px;
   display: flex;
